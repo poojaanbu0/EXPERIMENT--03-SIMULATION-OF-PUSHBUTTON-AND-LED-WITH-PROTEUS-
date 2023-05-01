@@ -194,7 +194,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
-# when LED is off
+ when LED is off
 ![ex3](https://user-images.githubusercontent.com/119390329/235410627-61af94c2-cef7-4fe0-a4b3-aa8143c698d6.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
